@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="BusList">
+        <item>Bus No.1</item>
+        <item>Bus No.2</item>
+        <item>Bus No.3</item>
+        <item>Bus No.4</item>
+        <item>Bus No.5</item>
+        <item>Bus No.6</item>
+        <item>Bus No.7</item>
+        <item>Bus No.8</item>
+        <item>Bus No.9</item>
+        <item>Bus No.10</item>
+        <item>Bus No.11</item>
+        <item>Bus No.12</item>
+        <item>Bus No.13</item>
+        <item>Bus No.14</item>
+        <item/>
+    </string-array>
+</resources>
